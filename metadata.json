@@ -1,0 +1,5 @@
+{
+  "name": "Sports Video Architect",
+  "description": "AI-powered sports broadcast editor that analyzes game footage to generate frame-accurate highlight logs with technical breakdowns.",
+  "requestFramePermissions": []
+}
